@@ -18,4 +18,6 @@ Lap 5 Part 1 was one of my favorite labs because it was very satisfying once I c
 
 Lab 7 Part 2 was also one of my favorite labs because it was the hardest. I was able to write functions to calculate the value of a blackjack hand. This lab took me the longest to code. But it was very satisfying once it was completed.
 
-*Lab 
+*Lab 6
+
+Lap 6 Part 1 was also one of my favorite labs because it was one of the first labs that used patterns with loops. I recall that I had alot of trial and error with this lab, but when the pattern was made it was very cool to see! There was a total of 22 lines that created a pattern.
